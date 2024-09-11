@@ -5,7 +5,6 @@
 ### 🤔 Meu foco hoje em dia é na minha carreira profissional e pessoal, sei da minha capacidade e do que sou capaz e também sei onde quero chegar.
 ### 👨‍💻 Tenho maior facilidade com HTML5 e CSS apesar de não ser a linguagem que mais me identifiquei. Minhas linguagens preferidas são Javascript e Python até então e até eu mais estudei foi R#
 ##
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?maxogabriel" frameborder="0"></iframe>
 
 ##
 # 👨‍💻 Linguagens que já estudei 
